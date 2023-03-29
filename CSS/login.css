@@ -1,0 +1,47 @@
+.l{
+    font-weight: bolder;
+    font-size: 1rem;
+}
+body{
+    text-align: center;
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    background-image: linear-gradient(300deg, rgb(216, 135, 189) 20%,rgb(235, 197, 172) 90%);
+}
+.fa{
+    display: inline-block;
+    border: 5px solid;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 5px;
+    padding:50px;
+    
+}
+.head{
+    margin-top: 1rem;
+}
+.qw{
+    padding: 1rem;
+}
+.re{
+    color: rgb(69, 65, 60);
+}
+.btnn{
+    background-color: black;
+    color:yellow;
+    margin-bottom: 1rem;
+}
+.btnn:hover{
+    background-color: beige;
+    color: black;
+}
+.li{
+    color: black;
+    text-decoration: none;
+}
+.li:hover{
+    color:rgba(18, 15, 15, 0.941);
+}
